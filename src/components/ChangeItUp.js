@@ -11,7 +11,7 @@ function ChangeItUp() {
         type="text"
         name="search"
         onChange={handleChange}
-        placeholder="Enter search term..."
+        placeholder="Type here..."
       />
 
       <select name="filter" onChange={handleChange}>
